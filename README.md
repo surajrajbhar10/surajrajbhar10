@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on free lancing
-- 📫 How to reach me 7292088497
+- 📫 How to reach me 8587909741,7292088497
 
 <!---
 surajrajbhar10/surajrajbhar10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
